@@ -1,0 +1,24 @@
+#title {
+   margin-top: 50px;
+}
+#content {
+    margin-top: 20px;
+}
+#footer {
+    margin-top: 50px;
+}
+.subsection {
+    font-weight: bold;
+}
+.screenimg {
+    max-width: 75%;
+}
+.carousel {
+    max-width: 75%;
+
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon,
+.carousel-indicators {
+    filter: invert(1)
+}
