@@ -10,6 +10,9 @@
 .subsection {
     font-weight: bold;
 }
+.subsubsection {
+    text-decoration: underline;
+}
 .screenimg {
     max-width: 75%;
 }
