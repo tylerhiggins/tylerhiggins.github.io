@@ -1,3 +1,33 @@
+body {
+    background-color: #343A40;
+    color: white;
+}
+
+a, a:link, a:hover, a:active {
+    color: white;
+}
+.nav-tabs .nav-link.active {
+    background-color: #343A40;
+    color: white;
+    border-left-color: white;
+    border-top-color: white;
+    border-right-color: white;
+    border-bottom-color: #343A40;
+}
+.card {
+    background-color: #343A40;
+    border-color: white;
+}
+
+#footer .btn {
+    color: white;
+}
+.table {
+    color: white;
+}
+.nav-tabs .nav-link {
+    color: white;
+}
 #title {
    margin-top: 50px;
 }
@@ -24,4 +54,8 @@
 .carousel-control-next-icon,
 .carousel-indicators {
     filter: invert(1)
+}
+
+.OS {
+    color: violet;
 }
