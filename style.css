@@ -55,7 +55,12 @@ a, a:link, a:hover, a:active {
 .carousel-indicators {
     filter: invert(1)
 }
-
+.carousel-caption {
+    color: black;
+}
 .OS {
     color: violet;
+}
+#avatar {
+    max-width: 25%;
 }
