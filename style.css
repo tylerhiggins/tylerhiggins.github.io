@@ -61,6 +61,7 @@ a, a:link, a:hover, a:active {
 .OS {
     color: violet;
 }
-#title img {
+#avatar {
+    display: flex;
     max-width: 25%;
 }
