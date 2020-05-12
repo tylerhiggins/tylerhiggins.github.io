@@ -62,6 +62,5 @@ a, a:link, a:hover, a:active {
     color: violet;
 }
 #avatar {
-    display: flex;
     max-width: 25%;
 }
